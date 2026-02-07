@@ -1,6 +1,6 @@
 # Uterine Fibroids: Evidence-Based Supplements & Lifestyle Interventions
 
-> **Research compiled for Amy** | 6.1cm subserosal fibroid | Exploring alternatives to hysterectomy
+> Evidence-based review of supplements and lifestyle interventions for uterine fibroids
 > 
 > *Last updated: February 2026*
 
@@ -21,16 +21,6 @@ Based on a comprehensive review of clinical trial and meta-analysis level eviden
 **❌ No Direct Evidence:**
 - **DIM (Diindolylmethane)** — Zero published studies on fibroids in humans. Theoretical estrogen-modulating effects only.
 - **Curcumin, Resveratrol** — In vitro and animal studies only; no human fibroid trials
-
----
-
-## Amy's Current Protocol Assessment
-
-| Supplement | Currently Taking? | Evidence Grade | Recommendation |
-|------------|------------------|----------------|----------------|
-| Vitamin D | ✅ Yes | **A** (Meta-analyses + RCTs) | Continue; ensure adequate dose |
-| EGCG/Green Tea | ✅ Yes (Life Extension) | **B** (Single RCT) | Continue; verify dosing (see below) |
-| DIM | ✅ Yes | **D** (No fibroid evidence) | May help general estrogen metabolism, but no fibroid-specific data |
 
 ---
 
@@ -79,16 +69,12 @@ One high-quality pilot RCT showed impressive results. A large multi-center NIH-f
 | Siblini 2023 | **Safety trial** | 39 | 800mg EGCG daily | 1 cycle | No liver toxicity; no folate deficiency; well-tolerated | [36678191](https://pubmed.ncbi.nlm.nih.gov/36678191/) |
 | Al-Hendy 2024 | **Protocol (FRIEND trial)** | Planned multi-site | 800mg EGCG | TBD | NIH-funded confirmatory trial underway | [38216200](https://pubmed.ncbi.nlm.nih.gov/38216200/) |
 
-#### ⚠️ Important Dosing Note for Amy
-
-**Life Extension Mega Green Tea Extract:**
-- Typically contains 725mg polyphenols per capsule (98% polyphenols)
-- EGCG content varies by batch but is typically ~326-350mg per capsule
+#### Dosing Considerations
 
 **The successful clinical trial used:**
 - 800mg green tea extract at 45% EGCG = **~360mg EGCG/day**
 
-**Recommendation:** One capsule of Life Extension Mega Green Tea Extract should provide approximately equivalent EGCG to the clinical trial. Verify the label states at least 300-360mg EGCG per capsule.
+**Recommendation:** Look for products providing 300-400mg EGCG per dose, equivalent to the clinical trial dosing.
 
 #### Safety Considerations
 - **Hepatotoxicity risk:** Rare but documented cases with high-dose green tea extract (typically >800mg EGCG or fasting doses)
@@ -117,7 +103,7 @@ DIM is proposed to:
 However, these mechanisms have NOT been validated specifically for fibroids in any human trial.
 
 #### Honest Assessment
-Amy may be taking DIM based on general estrogen-modulation claims, but there is **no fibroid-specific evidence** to support its use. This doesn't mean it's harmful—just that we can't say it helps fibroids based on current data.
+DIM is often marketed for estrogen-modulation, but there is **no fibroid-specific evidence** to support its use. This doesn't mean it's harmful—just that we can't say it helps fibroids based on current data.
 
 ---
 
@@ -192,18 +178,18 @@ A 2025 meta-analysis synthesized available evidence and found modest protective 
 
 ---
 
-## Practical Recommendations for Amy
+## Practical Recommendations
 
-### Continue (Evidence-Based)
+### Evidence-Based Interventions
 1. **Vitamin D** — Aim for serum 25(OH)D ≥40 ng/mL. Consider testing annually.
-2. **EGCG/Green Tea Extract** — Continue Life Extension product (~300-360mg EGCG/day). Take with food.
+2. **EGCG/Green Tea Extract** — 300-360mg EGCG/day based on clinical trial. Take with food.
 
 ### Consider Adding
-3. **Vigorous exercise** — If not already doing, aim for ≥3-4 hours/week of higher-intensity activity
+3. **Vigorous exercise** — Aim for ≥3-4 hours/week of higher-intensity activity
 4. **Increase dairy intake** — If tolerated, ≥2-3 servings/day may be protective
 
-### Re-evaluate
-5. **DIM** — No fibroid-specific evidence exists. Continue only if there's another reason (general hormone support), but don't expect fibroid shrinkage based on current science.
+### Limited Evidence
+5. **DIM** — No fibroid-specific evidence exists. May help general estrogen metabolism, but don't expect fibroid shrinkage based on current science.
 
 ### Lifestyle Optimization
 6. **Maintain healthy BMI** — Obesity is a confirmed risk factor
@@ -220,9 +206,9 @@ The **FRIEND Trial** (Fibroids and Unexplained Infertility Treatment with EGCG) 
 
 ## Important Caveats
 
-1. **Subserosal fibroids** (like Amy's) are typically less symptomatic than intramural or submucosal types, but they can still grow and cause pressure symptoms.
+1. **Fibroid type matters** — Subserosal fibroids are typically less symptomatic than intramural or submucosal types, but can still grow and cause pressure symptoms.
 
-2. **6.1cm is moderate-sized** — At this size, medical management may help prevent further growth but significant shrinkage is less certain.
+2. **Size considerations** — Larger fibroids (>5cm) may respond less dramatically to supplements; medical management may help prevent further growth.
 
 3. **None of these interventions are FDA-approved for fibroid treatment** — This is all off-label or supplement use.
 
