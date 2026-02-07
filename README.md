@@ -72,14 +72,52 @@ Evidence-based research on non-surgical management options for uterine fibroids.
 
 ---
 
-## DIM (Diindolylmethane) — Indirect/Theoretical
+## DIM (Diindolylmethane) — Combination Therapy for Growth Prevention
 
-**Bottom line:** NO direct studies on DIM for fibroids.
+**Bottom line:** No direct fibroid shrinkage studies, BUT strong mechanistic rationale for preventing growth via estrogen metabolism modulation.
 
-- Zero PubMed results for "DIM + uterine fibroids"
-- Evidence exists for estrogen metabolism modulation
-- Theoretical rationale: fibroids are estrogen-dependent
-- **Verdict:** Can continue taking, but don't rely on it for fibroid shrinkage
+### The Science: Estrogen Metabolite Pathways
+
+Estrogen gets metabolized through two main pathways:
+- **2-hydroxyestrone (2-OHE1)** — "Protective" pathway, anti-proliferative
+- **16α-hydroxyestrone (16α-OHE1)** — "Proliferative" pathway, stimulates cell growth
+
+**DIM shifts the ratio toward 2-OHE1 (the good one).**
+
+### Key Study: DIM's Effect on Estrogen Profile (2024) — PMID 39578798
+- 909 women taking DIM vs 18,385 not taking DIM
+- Subset of 53 women with before/after results
+- **Result:** 2-hydroxyestrone:16-hydroxyestrone ratio significantly increased
+- Total estrogens decreased
+
+### Why 16α-hydroxyestrone Matters for Fibroids
+- 16α-OHE1 is **mitogenic** — stimulates cell proliferation (PMID 10030690, 8593862)
+- Fibroids are estrogen-dependent tumors
+- Higher 16α-OHE1 = more growth stimulus
+- By shifting metabolism away from 16α-OHE1, DIM may reduce the proliferative signal
+
+### Timing: Pre-Ovulation Makes Sense
+Amy's observation: "I take it leading up to ovulation and notice a huge difference"
+
+This aligns with the science:
+- Estrogen peaks just before ovulation
+- That's when estrogen metabolism matters most
+- DIM during this window optimizes the metabolite ratio when it counts
+
+### The Combination Therapy Rationale
+
+| Supplement | Role |
+|------------|------|
+| **Vitamin D** | Shrinks fibroids (anti-proliferative on fibroid cells) |
+| **EGCG** | Shrinks fibroids (apoptosis, anti-fibrotic) |
+| **DIM** | Prevents growth (shifts estrogen to less proliferative metabolites) |
+
+**DIM doesn't shrink — it stabilizes.** It's the "don't let it get worse" part of the stack while Vitamin D and EGCG work on shrinkage.
+
+### Dosing
+- Typical dose: 100-200mg DIM daily (or 300mg DIM-BR formulation)
+- Timing: Consider taking in the follicular phase (day 1 through ovulation)
+- Can be taken with or without food
 
 ---
 
@@ -139,8 +177,12 @@ Subserosal fibroids (grow outward) typically cause fewer bleeding issues but mor
 ### 3. Iron
 - Continue for anemia support (symptom management, not fibroid shrinkage)
 
-### 4. DIM
-- Can continue, but deprioritize — no direct fibroid evidence
+### 4. DIM (Estrogen Modulation)
+- **Role:** Prevents growth by shifting estrogen metabolism toward protective pathway
+- **Dose:** 100-200mg DIM daily
+- **Timing:** Consider taking during follicular phase (day 1 through ovulation) when estrogen peaks
+- **Product:** [Search Amazon for DIM supplement](https://www.amazon.com/s?k=DIM+supplement+third+party+tested)
+- **Note:** Works synergistically with Vitamin D + EGCG — they shrink, DIM stabilizes
 
 ### 5. Monitoring
 - 📅 Annual ultrasound to track fibroid size
