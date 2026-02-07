@@ -121,12 +121,30 @@ Subserosal fibroids (grow outward) typically cause fewer bleeding issues but mor
 
 ## Recommended Protocol
 
-1. ✅ Check vitamin D levels, supplement to sufficiency
-2. ✅ Add EGCG (Life Extension Mega Green Tea Extract, 1 capsule daily)
-3. ✅ Continue iron for anemia support
-4. ⚠️ DIM can continue but deprioritize
-5. 📅 Annual ultrasound to track size
-6. 💬 Discuss UAE/focused ultrasound options with doctor
+### 1. Vitamin D
+- **Check your levels first** — aim for 30+ ng/mL
+- **Dose:** 50,000 IU weekly (or ~7,000 IU daily) — based on study protocols
+- **When:** Take with a meal containing fat for better absorption
+- **Duration:** 8+ weeks minimum for effect on fibroids
+- **Product:** [Search Amazon for Vitamin D3 50,000 IU](https://www.amazon.com/s?k=vitamin+d3+50000+iu+third+party+tested)
+
+### 2. EGCG (Green Tea Extract)
+- **Product:** [Life Extension Mega Green Tea Extract](https://www.amazon.com/s?k=Life+Extension+Mega+Green+Tea+Extract) — Labdoor verified 97.4/100, 326mg EGCG per capsule
+- **Dose:** 1 capsule daily (~326mg EGCG, matches study dose of ~360mg)
+- **When:** Take in the morning on an empty stomach
+- **With:** Vitamin C (or citrus fruit) for better absorption
+- **Avoid:** Protein and dairy for 30 minutes (blocks absorption)
+- **Duration:** Study showed results at 4 months
+
+### 3. Iron
+- Continue for anemia support (symptom management, not fibroid shrinkage)
+
+### 4. DIM
+- Can continue, but deprioritize — no direct fibroid evidence
+
+### 5. Monitoring
+- 📅 Annual ultrasound to track fibroid size
+- 💬 Discuss UAE/focused ultrasound options with doctor if needed
 
 ---
 
